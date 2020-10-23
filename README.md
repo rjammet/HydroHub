@@ -1,9 +1,9 @@
 ![HydroHub](https://image.noelshack.com/fichiers/2020/43/5/1603465562-hub-4.png "Hydro Image")
 
-![Github issues](https://img.shields.io/github/issues/rjammet/Hydroangeas "HydroHub issues")
-![Github stars](https://img.shields.io/github/stars/rjammet/Hydroangeas "HydroHub stars")
-![Github license](https://img.shields.io/github/license/rjammet/Hydroangeas "HydroHub licence")
-![build](https://img.shields.io/github/workflow/status/rjammet/Hydroangeas/Java%20CI%20with%20Maven)
+![Github issues](https://img.shields.io/github/issues/rjammet/HydroHub "HydroHub issues")
+![Github stars](https://img.shields.io/github/stars/rjammet/HydroHub "HydroHub stars")
+![Github license](https://img.shields.io/github/license/rjammet/HydroHub "HydroHub licence")
+![build](https://img.shields.io/github/workflow/status/rjammet/HydroHub/Java%20CI%20with%20Maven)
 
 ## Hydro - HydroHub
 
