@@ -2,7 +2,7 @@
 
 ![Github issues](https://img.shields.io/github/issues/rjammet/HydroHub "HydroHub issues")
 ![Github stars](https://img.shields.io/github/stars/rjammet/HydroHub "HydroHub stars")
-![Github license](https://img.shields.io/github/license/rjammet/HydroHub "HydroHub license")
+[![Github license](https://img.shields.io/github/license/rjammet/HydroHub "HydroHub license")](https://github.com/rjammet/HydroHub/blob/master/LICENSE)
 ![build](https://img.shields.io/github/workflow/status/rjammet/HydroHub/Java%20CI%20with%20Maven)
 
 ## Hydro - HydroHub
