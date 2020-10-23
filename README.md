@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="#">
-<img src="https://image.noelshack.com/fichiers/2020/43/5/1603465562-hub-4.png" alt="Logo">    
+<img src="https://image.noelshack.com/fichiers/2020/43/5/1603482087-server-color.png" alt="Logo">    
 </a>
 <h1 align="center">Hydro - HydroHub</h1>
 
